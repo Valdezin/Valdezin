@@ -1,9 +1,9 @@
 # 💫 About Me:
-hi
+An aspiring Full-Stack Developer, but back-end is also fine hehe
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/valdezinpro) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vldz/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Valdezin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

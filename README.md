@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I like breaking things more than building them.
+
 <!--
 **Valdezin/Valdezin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
